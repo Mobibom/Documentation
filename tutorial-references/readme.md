@@ -10,4 +10,4 @@
 ## 资源
 
 1. sketchfab模型 [sketchfab](https://sketchfab.com/)
-2. synty store的low poly模型  [syntystore](https://syntystore.com/)
+2. synty store的low poly模型(付费)  [syntystore](https://syntystore.com/)
