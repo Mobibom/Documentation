@@ -1,3 +1,9 @@
+
+**本项目可以使用Github或者Gitee进行访问**
+
+- [Github地址](https://github.com/mobibom)
+- [Gitee地址](https://gitee.com/mobibom)
+
 # Git的使用教程
 
 ## 1. Git的安装
