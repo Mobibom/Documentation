@@ -12,6 +12,7 @@
 
 1. sketchfab模型 [sketchfab](https://sketchfab.com/)
 2. synty store的low poly模型(付费)  [syntystore](https://syntystore.com/)
+3. 免费的lowpoly模型 [quaternius](https://quaternius.com/)
 
 ## 框架
 
