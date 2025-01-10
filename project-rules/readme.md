@@ -10,6 +10,7 @@ Assets/                 # 存放所有游戏的资源文件
     Materials/          # 材质
     Audio/              # 音频文件
     Textures/           # 纹理图片
+    Resources/          # 游戏内会动态获取的资源
 ProjectSettings/        # Unity的项目设置文件
 Packages/               # 项目中引用的Unity Packages
 .gitignore              # 忽略文件(例如Temp, Library等)
